@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/viniciustt2/teste-packages/issues"
   },
-  "homepage": "https://github.com/viniciustt2/teste-packages#readme"
+  "homepage": "https://github.com/viniciustt2/teste-packages#readme",
+  "publishConfig": {
+    "@viniciustt2:registry": "https://npm.pkg.github.com"
+  }
 }
