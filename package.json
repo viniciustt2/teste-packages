@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/viniciustt2/teste-packages#readme",
   "publishConfig": {
-    "registry": "https://github.com/viniciustt2/teste-packages"
+    "registry": "https://npm.pkg.github.com/"
   }
 }
