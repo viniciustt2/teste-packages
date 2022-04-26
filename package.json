@@ -1,0 +1,19 @@
+{
+  "name": "@viniciustt2/teste-packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciustt2/teste-packages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciustt2/teste-packages/issues"
+  },
+  "homepage": "https://github.com/viniciustt2/teste-packages#readme"
+}
