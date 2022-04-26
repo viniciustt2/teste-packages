@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/viniciustt2/teste-packages.git"
+    "url": "git://github.com/viniciustt2/teste-packages.git"
   },
   "author": "",
   "license": "ISC",
