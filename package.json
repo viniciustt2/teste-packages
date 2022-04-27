@@ -22,6 +22,9 @@
     "rollup-plugin-dts": "^4.2.0",
     "typescript": "^4.6.3"
   },
+  "dependencies": {
+    "react": "^17.0.2"
+  },
   "bugs": {
     "url": "https://github.com/viniciustt2/teste-packages/issues"
   },
