@@ -1,5 +1,5 @@
 name: Node.js Package deploy
-on:
+on: [push]
   # push:
   #   branches: [ master ]
   # pull_request:
